@@ -21,7 +21,10 @@ h1 {
   font-size: 8rem;
   color: #4ECCA3;
 }
-
+work{
+  text-align:center;
+  margin-top: 5%;
+}
 p {
   font-size: 2rem;
   color: #4ECCA3;
